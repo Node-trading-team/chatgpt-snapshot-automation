@@ -6,6 +6,8 @@ Python + Selenium 스크립트를 이용해 ChatGPT로부터 날짜별 \*fundame
 
 `daily\_snapshots/.../market\_snapshot.json` 파일에 즉시 저장하는 자동화 도구입니다.
 
+REAMME 파일, pptx 파일 참고해보시고 문제 생긴다면 연락주세요
+
 
 
 ---
