@@ -26,7 +26,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 CHROMEDRIVER = r"C:\chrome-data\chromedriver.exe"
 USER_DATA    = r"C:\chrome-data\user-profile"
 PROFILE_NAME = "Default"
-CHATGPT_URL  = "https://chat.openai.com"
+chatgpt_url  = "https://chatgpt.com/?model=o3"
 
 START_DATE   = "2018-01-01"
 END_DATE     = "2018-01-02"
