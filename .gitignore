@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+drivers/chromedriver.exe
+chrome-data/
+daily_snapshots/
