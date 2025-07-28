@@ -2,7 +2,7 @@
 
 
 
-Python + Selenium 스크립트를 이용해 ChatGPT로부터 날짜별 \*fundamental\* 리포트를 받아  
+Python + Selenium 스크립트를 이용해 ChatGPT로부터 날짜별 \*fundamental\*, \*sentiment\* 리포트를 받아  
 
 `daily\_snapshots/.../market\_snapshot.json` 파일에 즉시 저장하는 자동화 도구입니다.
 
