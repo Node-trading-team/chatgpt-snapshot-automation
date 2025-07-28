@@ -24,7 +24,7 @@ from selenium.common.exceptions import (
 chrome_driver_path = r"C:\chrome-data\chromedriver.exe"
 user_data_dir      = r"C:\chrome-data\user-profile"
 profile_name       = "Default"
-chatgpt_url        = "https://chat.openai.com"
+chatgpt_url        = "https://chatgpt.com/?model=o3"
 
 start_date         = "2018-01-01"
 end_date           = "2018-01-02"
