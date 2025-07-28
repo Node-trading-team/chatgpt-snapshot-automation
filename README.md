@@ -1,0 +1,1 @@
+# chatgpt-snapshot-automation
